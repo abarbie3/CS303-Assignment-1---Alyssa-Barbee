@@ -1,7 +1,7 @@
 // Name: Alyssa Barbee
 // Class: CS303 - Data Structures
 // Assignment 1
-// Question 1
+// Question 1 and Question 2
 // Date: 9/9/2024
 
 
