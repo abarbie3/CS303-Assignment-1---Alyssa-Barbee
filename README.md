@@ -3,6 +3,7 @@
 Note: This program was orginally run through with Visual Studio Code
 
 1. Run program
+   
 2. Input integers when prompted
 
 Error handling (how I tested error handling for Question 2)
