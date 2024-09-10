@@ -6,7 +6,9 @@ Note: This program was orginally run through with Visual Studio Code
 2. Input integers when prompted
 
 Error handling (how I tested error handling for Question 2)
+
 3. Enter a number when prompted "Enter the index you want to modify:" that's greater than the array's range (150)
+
 4. Adjust the variable "currArrSize" to be greater than thearray's range (150) for the function "AddInt"
 
 Images:
