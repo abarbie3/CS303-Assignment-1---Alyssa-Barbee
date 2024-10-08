@@ -1,5 +1,6 @@
+/*
 //Name: Alyssa Barbee
-//Date: 10-7-24
+//Date: 10-8-24
 //CS303
 //Assignment 2 - Question 2
 //Credit: Class Notes
@@ -22,3 +23,4 @@ int main()
 
 	return 0;
 }
+*/
